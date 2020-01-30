@@ -1,0 +1,3 @@
+### RUN BIM ###
+BIM is the script that runs the python file
+There are three parameters that are needed. The correct order is A query file in the same format, A relevance file in the format, A galago index directory.

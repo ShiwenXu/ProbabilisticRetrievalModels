@@ -1,0 +1,17 @@
+{
+  "blockCount" : 229,
+  "blockSize" : 512,
+  "emptyIndexFile" : false,
+  "filename" : "/u/riker/u96/xu931/./project1-index/corpus",
+  "keyCount" : 3204,
+  "maxKeySize" : 512,
+  "mergerClass" : "org.lemurproject.galago.core.index.merge.CorpusMerger",
+  "readerClass" : "org.lemurproject.galago.core.index.corpus.CorpusReader",
+  "tokenizer" : {
+    "fields" : [ ],
+    "formats" : {
+
+    }
+  },
+  "writerClass" : "org.lemurproject.galago.core.index.corpus.CorpusFolderWriter"
+}
